@@ -1,0 +1,8 @@
+Metric,Value
+Baseline Accuracy,0.8530
+Temporal Accuracy,0.8503
+Improvement,0.8503
+Best Model,LightGBM
+Classes,"HIGH, LOW, MEDIUM"
+Baseline Features,39
+Temporal Features,74

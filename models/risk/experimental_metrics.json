@@ -1,0 +1,21 @@
+{
+  "baseline": {
+    "accuracy": 0.853,
+    "cv_mean": 0.8308333333333333,
+    "cv_std": 0.008079466429027212
+  },
+  "temporal": {
+    "accuracy": 0.8503333333333334,
+    "cv_mean": 0.8265,
+    "cv_std": 0.011035296904831241
+  },
+  "test_set_sizes": {
+    "baseline_test": 6000,
+    "temporal_test": 6000
+  },
+  "threshold_recommendations": {
+    "high_sensitivity": 0.35,
+    "balanced": 0.5,
+    "high_specificity": 0.6
+  }
+}
