@@ -18,15 +18,6 @@ build/
 .vite/
 out/
 
-# Generated/model artifacts
-models/
-*.h5
-*.joblib
-*.keras
-*.json
-report_assets/
-"second review"/
-
 # Environment files
 .env
 .env.*
